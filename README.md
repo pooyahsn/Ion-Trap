@@ -1,5 +1,5 @@
 # Molmer-Sorensen hamiltonian
-The hamiltonian is based on the paper: "Quantum Computation with Ions in Thermal Motion" by Molmer and Sorensen. 
+The hamiltonian is based on the paper: "Quantum Computation with Ions in Thermal Motion" by Molmer and Sorensen(1999). 
 One is the total hamiltonian and the other the approximate hamiltonian that is valid in the Lamb-Dicke regime. The parameters are from the paper.
 
 # Native qudit gates
